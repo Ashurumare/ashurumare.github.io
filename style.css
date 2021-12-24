@@ -2,3 +2,8 @@ body {
 background-color : #1c1c1e ;
 color : #fefefe ;
 }
+
+h1 {
+	font-size: 4em;
+	text-align: center;
+}
